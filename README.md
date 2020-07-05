@@ -12,4 +12,4 @@ Overall: Create your very own paint program. You will use Unity in 2D mode and O
 
 Result:
 
-!image(https://github.com/Yijunliulost/PaintIn2D-Program/blob/master/Capture1.JPG)
+![image](https://github.com/Yijunliulost/PaintIn2D-Program/blob/master/Capture1.JPG)
