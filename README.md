@@ -1,6 +1,6 @@
 # PaintIn2D-Program
 
-Purpose: use OpenGL graphics primitives, how the event loop works, display vs world coordinate systems in 2D, and what role interactivity places a part with how the display functions.
+Purpose: Use OpenGL graphics primitives, how the event loop works, display vs world coordinate systems in 2D, and what role interactivity places a part with how the display functions.
 
 Overall: Create your very own paint program. You will use Unity in 2D mode and OpenGL commands.
 
