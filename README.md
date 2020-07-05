@@ -9,3 +9,7 @@ Overall: Create your very own paint program. You will use Unity in 2D mode and O
 2) Be able to change size of brush (at least 3 sizes), color of brush (at least 3 different colors), and have at least 3 options of shape (filled in regions) {circular and square are required, choose one additional: triangle, polygon, etc.}. Use parameterization, sampling loops (ie circle), and 2D OpenGL Transformation commands for drawing. Note: Continuous lines do not need to be drawn with your optional shapes ie. they will act more like a stamp tool- but 2 points extra bonus if you do! Variation for 4010: You may use actual points for your shapes.
 
 3) As a part of your project, you must have a toolbar on the side where you have drawn shapes/icons (these can be very simple) and you have identified this ‘pick’ region to execute your code when the mouse clicks in this area. You can create this using multiple viewports. Variation for 4010: You may use “keyboard” commands to swap out the brushes and colors (instead of the ‘toolbar’). If you do this, then at least set up one viewport. 
+
+Result:
+
+!image(https://github.com/Yijunliulost/PaintIn2D-Program/blob/master/Capture1.JPG)
