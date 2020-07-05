@@ -10,6 +10,10 @@ Overall: Create your very own paint program. You will use Unity in 2D mode and O
 
 3) As a part of your project, you must have a toolbar on the side where you have drawn shapes/icons (these can be very simple) and you have identified this ‘pick’ region to execute your code when the mouse clicks in this area. You can create this using multiple viewports. Variation for 4010: You may use “keyboard” commands to swap out the brushes and colors (instead of the ‘toolbar’). If you do this, then at least set up one viewport. 
 
-Result:
+Painting Result:
 
 ![image](https://github.com/Yijunliulost/PaintIn2D-Program/blob/master/Capture1.JPG)
+
+![image](https://github.com/Yijunliulost/PaintIn2D-Program/blob/master/Capture2.JPG)
+
+![image](https://github.com/Yijunliulost/PaintIn2D-Program/blob/master/Capture3.JPG)
