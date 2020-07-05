@@ -2,7 +2,7 @@
 
 Purpose: Use OpenGL graphics primitives, how the event loop works, display vs world coordinate systems in 2D, and what role interactivity places a part with how the display functions.
 
-Overall: Create your very own paint program. You will use Unity in 2D mode and OpenGL commands.
+Overall: Create my very own paint program. Use Unity in 2D mode and OpenGL commands.
 
 1) a) Draw a continuous line with the mouse. When click down the mouse must continuously draw until mouse button is lifted without gaps in the line. Hint: Check that if you draw fast that there are not gaps between one movement to the next. b) Additionally be able to erase with the mouse. Hint: If there is no “erase” drawing tool, how might you achieve this otherwise?
 
